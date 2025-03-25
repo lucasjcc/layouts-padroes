@@ -12,7 +12,12 @@ A imagem dos layouts encontra-se abaixo:
 
 ## Objetivo
 
-O objetivo deste projeto é didático, para ajudar a você que está inciando no front-end a desenvolver alguns dos principais layouts usando flex box.
+O objetivo deste projeto é didático, para ajudar a você que está iniciando no front-end a desenvolver layouts usando flex box.
+
+Dicas:
+
+- tente não usar _pixel perfect_.
+- tente usar a "regra de 3" pra evitar usar unidades absolutas, como o pixel.
 
 ## Tecnologias Utilizadas
 
