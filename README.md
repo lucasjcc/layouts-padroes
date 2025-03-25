@@ -4,6 +4,12 @@
 
 Este projeto tem como objetivo a construção de uma série de layouts padrões utilizando apenas HTML e CSS. Os layouts estão definidos no arquivo **layouts-padroes.penpot**.
 
+A imagem dos layouts encontra-se abaixo:
+
+<figure>
+  <img src="./assets-readme/layouts.png">
+</figure>
+
 ## Objetivo
 
 O objetivo deste projeto é didático, para ajudar a você que está inciando no front-end a desenvolver alguns dos principais layouts usando flex box.
