@@ -1,0 +1,31 @@
+body {
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 30%;
+}
+
+.menor {
+  background-color: var(--div-color);
+  width: 32%;
+  height: 100%;
+}
+
+.maior {
+  background-color: var(--div-color);
+  width: 64%;
+  height: 100%;
+}
+
+footer {
+  background-color: var(--div-color);
+  height: 30%;
+}

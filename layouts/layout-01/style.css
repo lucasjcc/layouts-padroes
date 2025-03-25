@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  padding: 60px 60px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+main {
+  background-color: var(--div-color);
+  height: 70%;
+}
+
+footer {
+  background-color: var(--div-color);
+  height: 25%;
+}

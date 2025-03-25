@@ -1,0 +1,36 @@
+body {
+  height: 100vh;
+  padding: 60px 60px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+header {
+  background-color: var(--div-color);
+  height: 15%;
+}
+
+.container-conteudo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 65%;
+}
+
+aside {
+  background-color: var(--div-color);
+  width: 30%;
+  height: 100%;
+}
+
+main {
+  background-color: var(--div-color);
+  width: 65%;
+  height: 100%;
+}
+
+footer {
+  background-color: var(--div-color);
+  height: 15%;
+}
